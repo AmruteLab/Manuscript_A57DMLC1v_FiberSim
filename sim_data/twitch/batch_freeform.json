@@ -1,0 +1,73 @@
+{
+    "FiberSim_batch": {
+        "FiberCpp_exe": {
+            "exe_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\bin\\FiberCpp.exe"
+        },
+        "job": [
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\1\\protocol_1.txt",
+                "results_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\1\\sim_prot_1_1_r1.txt",
+                "model_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\..\\sim_data\\twitch\\sim_input\\1\\sim_options_1_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\1\\protocol_1.txt",
+                "results_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\1\\sim_prot_1_1_r2.txt",
+                "model_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\..\\sim_data\\twitch\\sim_input\\1\\sim_options_1_1_r2.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\1\\protocol_1.txt",
+                "results_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\1\\sim_prot_1_1_r3.txt",
+                "model_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\1\\model_1.json",
+                "options_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\..\\sim_data\\twitch\\sim_input\\1\\sim_options_1_1_r3.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\2\\protocol_1.txt",
+                "results_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\2\\sim_prot_1_1_r1.txt",
+                "model_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\..\\sim_data\\twitch\\sim_input\\2\\sim_options_1_1_r1.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\2\\protocol_1.txt",
+                "results_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\2\\sim_prot_1_1_r2.txt",
+                "model_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\..\\sim_data\\twitch\\sim_input\\2\\sim_options_1_1_r2.json"
+            },
+            {
+                "relative_to": "False",
+                "protocol_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\2\\protocol_1.txt",
+                "results_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\2\\sim_prot_1_1_r3.txt",
+                "model_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_input\\2\\model_2.json",
+                "options_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\..\\sim_data\\twitch\\sim_input\\2\\sim_options_1_1_r3.json"
+            }
+        ],
+        "batch_figures": {
+            "rates": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output",
+                    "output_image_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\rates",
+                    "output_image_formats": [
+                        "png"
+                    ]
+                }
+            ],
+            "superposed_traces": [
+                {
+                    "relative_to": "False",
+                    "results_folder": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output",
+                    "output_image_file": "C:\\Users\\spahiuem\\Documents\\FiberSim-2.3.2\\FiberSim-2.3.2\\demo_files\\KenSimsA57D\\generated\\../sim_data/twitch\\sim_output\\superposed_traces",
+                    "output_image_formats": [
+                        "png"
+                    ]
+                }
+            ]
+        }
+    }
+}

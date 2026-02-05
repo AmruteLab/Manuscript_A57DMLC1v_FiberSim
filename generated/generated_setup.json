@@ -1,0 +1,82 @@
+{
+    "FiberSim_setup": {
+        "FiberCpp_exe": {
+            "relative_to": "False",
+            "exe_file": "C:/Users/spahiuem/Documents/FiberSim-2.3.2/FiberSim-2.3.2/bin/FiberCpp.exe"
+        },
+        "model": {
+            "relative_to": "this_file",
+            "options_file": "sim_options.json",
+            "model_files": [
+                "model_1.json",
+                "model_2.json"
+            ]
+        },
+        "characterization": [
+            {
+                "type": "pCa_length_control",
+                "relative_to": "this_file",
+                "sim_folder": "../sim_data/force_pCa",
+                "m_n": 25,
+                "randomized_repeats": 3,
+                "pCa_values": [
+                    9,
+                    6.5,
+                    6.3,
+                    6.1,
+                    6.0,
+                    5.9,
+                    5.8,
+                    5.7,
+                    5.5,
+                    4.5
+                ],
+                "sim_duration_s": 2.5,
+                "time_step_s": 0.001,
+                "pCa_step_up_s": 0.1,
+                "k_tr_start_s": 1.5,
+                "k_tr_duration_s": 0.02,
+                "k_tr_ramp_s": 0.001,
+                "k_tr_magnitude_nm": 100,
+                "k_tr_fit_time_s": [
+                    1.525,
+                    2.45
+                ],
+                "output_image_formats": [
+                    "png"
+                ],
+                "figures_only": "False",
+                "trace_figures_on": "False"
+            },
+            {
+                "type": "twitch",
+                "relative_to": "this_file",
+                "sim_folder": "../sim_data/twitch",
+                "randomized_repeats": 3,
+                "m_n": 64,
+                "protocol": {
+                    "protocol_folder": "../protocols",
+                    "data": [
+                        {
+                            "time_step_s": 0.001,
+                            "n_points": 800,
+                            "stimulus_times_s": [
+                                0.1
+                            ],
+                            "Ca_content": 0.001,
+                            "stimulus_duration_s": 0.02,
+                            "k_leak": 0.001,
+                            "k_act": 1,
+                            "k_serca": 80
+                        }
+                    ]
+                },
+                "output_image_formats": [
+                    "png"
+                ],
+                "figures_only": "False",
+                "trace_figures_on": "False"
+            }
+        ]
+    }
+}
