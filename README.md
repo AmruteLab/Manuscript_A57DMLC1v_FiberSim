@@ -1,3 +1,5 @@
+<a href="https://doi.org/10.5281/zenodo.18495545"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18495545.svg" alt="DOI"></a>
+
 # Manuscript_A57DMLC1v_FiberSim
 1. Contains FiberSim simulation files used in the manuscript for A57D-MLC1v to generate the effect of reduced powertroke size and reduced detachment rate.
 
